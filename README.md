@@ -1,5 +1,6 @@
 # Task management
-In this application you can create, view, update and delete tasks. Node.js and expressjs used at the back-end.
+It is simple task management application. In this application you can create, view, update and delete tasks. Node.js and expressjs used at the back-end and vanilla javascript used for front-end with axios library used for http request.
+
 
 ## To run
 1. install packages  -> npm install 
